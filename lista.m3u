@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
 # Gerado automaticamente a partir de DearBulut/iptv
-# Canais ativos: 177
-#EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-country="BR" tvg-language="por" group-title="Shop" nexus-score="32",1001 Noites
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+# Canais ativos: 176
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="por" group-title="Education" nexus-score="100",AgroCanal
@@ -158,6 +156,8 @@ http://45.162.64.114/NOVO_TEMPO/index.m3u8
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1 tvg-id="NTV.br" tvg-name="NTV" tvg-logo="https://i.imgur.com/n79nkVC.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",NTV
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ODiaTV.br" tvg-name="O Dia TV" tvg-logo="https://i.imgur.com/1LUbAVP.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",O Dia TV
+https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-id="PetloversTV.br" tvg-name="Petlovers TV" tvg-logo="https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png" tvg-country="BR" tvg-language="por" group-title="Entertainment" nexus-score="100",Petlovers TV
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br" tvg-name="Play TV" tvg-logo="https://i.imgur.com/Ikrj3lk.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",Play TV
@@ -218,6 +218,8 @@ http://170.83.16.50/SONY_CHANNEL/index.m3u8
 http://45.177.114.115/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="SOUTV.br" tvg-name="SOU TV" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="78",SOU TV
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" tvg-country="BR" tvg-language="por" group-title="Sports" nexus-score="0",SporTV
+http://195.178.110.110/sportv/index.m3u8
 #EXTINF:-1 tvg-id="STZTV.br" tvg-name="STZ TV" tvg-logo="https://i.imgur.com/SeF2I7q.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",STZ TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br" tvg-name="TCM 10 HD" tvg-logo="https://i.imgur.com/aMuMVvB.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",TCM 10 HD
@@ -242,8 +244,6 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="100",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br" tvg-name="TV Arapuan" tvg-logo="https://i.imgur.com/3395A2h.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="64",TV Arapuan
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAssembleiaPiaui.br" tvg-name="TV Assembleia Piaui" tvg-logo="https://i.imgur.com/eMguSjM.png" tvg-country="BR" tvg-language="por" group-title="Legislative" nexus-score="100",TV Assembleia Piaui
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br" tvg-name="TV Bahia" tvg-logo="https://i.imgur.com/sJOrvHg.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",TV Bahia
@@ -304,8 +304,6 @@ http://45.162.64.114/TV_JUSTICA/index.m3u8
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVLifeAmerica.br" tvg-name="TV Life America" tvg-logo="https://i.imgur.com/HZI0ilU.png" tvg-country="BR" tvg-language="por" group-title="Culture" nexus-score="100",TV Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-id="TVLitoralRN.br" tvg-name="TV Litoral RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="47",TV Litoral RN
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaisMarica.br" tvg-name="TV Mais Marica" tvg-logo="https://i.imgur.com/lgCRX7q.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Mais Marica
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMarajoara.br" tvg-name="TV Marajoara" tvg-logo="https://i.imgur.com/9d9vBN7.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Marajoara

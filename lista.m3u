@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
 # Gerado automaticamente a partir de DearBulut/iptv
-# Canais ativos: 177
+# Canais ativos: 179
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-country="BR" tvg-language="por" group-title="Shop" nexus-score="8",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="por" group-title="Education" nexus-score="99",AgroCanal
@@ -53,8 +55,6 @@ http://168.197.104.22/TV_BRASIL_2/index.m3u8
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-country="BR" tvg-language="por" group-title="Outdoor" nexus-score="99",Canal Rural
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
-#EXTINF:-1 tvg-id="CanalSete.br" tvg-name="Canal Sete" tvg-logo="https://i.imgur.com/0cq0BPp.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="86",Canal Sete
-http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUOL.br" tvg-name="Canal UOL" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="ChefTV.br" tvg-name="Chef TV" tvg-logo="https://i.imgur.com/UYksTee.png" tvg-country="BR" tvg-language="por" group-title="Cooking" nexus-score="100",Chef TV
@@ -172,8 +172,6 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br" tvg-name="RecordTV Interior SP" tvg-logo="https://i.imgur.com/VcHy0fu.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/TXJKwzZ.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="99",Rede Brasil
-https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="Rede CNT Rio de Janeiro" tvg-logo="https://i.imgur.com/jcasAmw.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",Rede CNT Rio de Janeiro
 http://168.197.104.22/CNT/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Familia" tvg-logo="https://i.imgur.com/7KVFCrQ.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",Rede Familia
@@ -210,6 +208,8 @@ https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" tvg-logo="https://i.imgur.com/Mu8O6CV.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",SESC TV
 http://45.162.64.114/SESC_TV/index.m3u8
+#EXTINF:-1 tvg-id="SICTV.br" tvg-name="SIC TV" tvg-logo="https://i.imgur.com/mHxQyB2.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="12",SIC TV
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",Sony Channel
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="100",Sony Movies
@@ -246,6 +246,8 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/kxrja0X.png" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="100",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArapuan.br" tvg-name="TV Arapuan" tvg-logo="https://i.imgur.com/3395A2h.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="96",TV Arapuan
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAssembleiaPiaui.br" tvg-name="TV Assembleia Piaui" tvg-logo="https://i.imgur.com/eMguSjM.png" tvg-country="BR" tvg-language="por" group-title="Legislative" nexus-score="100",TV Assembleia Piaui
 https://stmv1.srvstm.com/piaui8071/piaui8071/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br" tvg-name="TV Bahia" tvg-logo="https://i.imgur.com/sJOrvHg.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="90",TV Bahia
@@ -292,6 +294,8 @@ https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://i.imgur.com/0sksWse.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",TV Gazeta
 http://168.197.104.22/GAZETA/index.m3u8
+#EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br" tvg-name="TV GRANDE NATAL HDTV BRASIL" tvg-logo="https://i.imgur.com/MTuErdw.png" tvg-country="BR" tvg-language="por" group-title="Entertainment" nexus-score="100",TV GRANDE NATAL HDTV BRASIL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-name="TV Guara" tvg-logo="https://i.imgur.com/8PErNBT.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="76",TV Guara
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-id="TVideoNews.br" tvg-name="TVideoNews" tvg-logo="https://i.imgur.com/vstHOYx.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",TVideoNews

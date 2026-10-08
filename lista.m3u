@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
 # Gerado automaticamente a partir de DearBulut/iptv
-# Canais ativos: 178
+# Canais ativos: 182
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-country="BR" tvg-language="por" group-title="Shop" nexus-score="1",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Adesso TV
@@ -71,6 +71,8 @@ https://play.redecinturaoverde.com.br/playlist.m3u8
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="COMBrasil.br" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/GrjGwKM.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",COM Brasil
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralBrasil.br" tvg-name="Comedy Central Brasil" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" tvg-country="BR" tvg-language="por" group-title="Comedy" nexus-score="0",Comedy Central Brasil
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="ConectaMaisTV.br" tvg-name="Conecta Mais TV" tvg-logo="https://i.imgur.com/qHwTWlz.png" tvg-country="BR" tvg-language="por" group-title="Entertainment" nexus-score="100",Conecta Mais TV
 https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
 #EXTINF:-1 tvg-id="ConecTVBrasil.br" tvg-name="ConecTV Brasil" tvg-logo="https://i.imgur.com/XN6jjMR.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",ConecTV Brasil
@@ -164,6 +166,8 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br" tvg-name="Plena TV" tvg-logo="https://i.imgur.com/lH4RT7b.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="94",Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="PlenitudeTV.br" tvg-name="Plenitude TV" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="100",Plenitude TV
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br" tvg-name="Primer TV" tvg-logo="https://i.imgur.com/PMptSP3.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Primer TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-name="RBATV" tvg-logo="https://i.imgur.com/ZWFxlU1.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",RBATV
@@ -240,6 +244,8 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd749
 http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br" tvg-name="TV A Critica" tvg-logo="https://i.imgur.com/j51rBro.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",TV A Critica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAFolha.br" tvg-name="TV A Folha" tvg-logo="https://i.imgur.com/I7XGMhj.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="70",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAldeia.br" tvg-name="TV Aldeia" tvg-logo="https://i.imgur.com/rsfnv4Z.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlternativa.br" tvg-name="TV Alternativa" tvg-logo="https://i.imgur.com/wM9xXhc.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Alternativa
@@ -292,6 +298,10 @@ http://168.197.104.22/GAZETA/index.m3u8
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="TVGuara.br" tvg-name="TV Guara" tvg-logo="https://i.imgur.com/8PErNBT.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="82",TV Guara
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGuarapari.br" tvg-name="TV Guarapari" tvg-logo="https://i.imgur.com/eDNzwK0.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="0",TV Guarapari
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvguarapari.com/
+https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
 #EXTINF:-1 tvg-id="TVideoNews.br" tvg-name="TVideoNews" tvg-logo="https://i.imgur.com/vstHOYx.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",TVideoNews
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-id="TVitape.br" tvg-name="TVitape" tvg-logo="https://i.imgur.com/XeqcwKe.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TVitape

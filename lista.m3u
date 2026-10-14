@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
 # Gerado automaticamente a partir de DearBulut/iptv
-# Canais ativos: 180
+# Canais ativos: 177
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="por" group-title="Education" nexus-score="100",AgroCanal
@@ -33,6 +33,8 @@ https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-name="Box Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" tvg-country="BR" tvg-language="por" group-title="Kids" nexus-score="100",Box Kids TV
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="BR8TV.br" tvg-name="BR8 TV" tvg-logo="https://i.ibb.co/1QZv2q1/Br8-fb-graph.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="5",BR8 TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-name="Canal 25 Jundiai" tvg-logo="https://i.imgur.com/7igGMwH.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",Canal 25 Jundiai
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="Canal38.br" tvg-name="Canal 38" tvg-logo="https://i.imgur.com/co7TCWC.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",Canal 38
@@ -95,8 +97,6 @@ http://181.78.197.59:8000/play/a07z/index.m3u8
 http://181.78.197.59:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-country="BR" tvg-language="por" group-title="Sports" nexus-score="100",ESPN 4
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="FalaLitoral.br" tvg-name="Fala Litoral" tvg-logo="https://i.imgur.com/NF6PL8O.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="24",Fala Litoral
-https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" tvg-country="BR" tvg-language="por" group-title="Outdoor" nexus-score="100",Fish TV
 http://170.83.16.50/FISH_TV/index.m3u8
 #EXTINF:-1 tvg-id="FonteTV.br" tvg-name="Fonte TV" tvg-logo="https://i.imgur.com/7q2BmNc.png" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="75",Fonte TV
@@ -106,8 +106,6 @@ http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" tvg-country="BR" tvg-language="por" group-title="Education" nexus-score="100",Futura
 http://168.197.104.22/FUTURA/index.m3u8
-#EXTINF:-1 tvg-id="Geekdot.br" tvg-name="Geekdot" tvg-logo="https://i.imgur.com/jML1u4O.png" tvg-country="BR" tvg-language="por" group-title="Animation" nexus-score="0",Geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="geFast.br" tvg-name="ge Fast" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" tvg-country="BR" tvg-language="por" group-title="Sports" nexus-score="100",ge Fast
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 #EXTINF:-1 tvg-id="GhostTV.br" tvg-name="Ghost TV" tvg-logo="https://i.imgur.com/ZVO8GVI.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="0",Ghost TV
@@ -166,8 +164,6 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-id="PlenitudeTV.br" tvg-name="Plenitude TV" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="99",Plenitude TV
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
-#EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",+MaisUm
-https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br" tvg-name="Primer TV" tvg-logo="https://i.imgur.com/PMptSP3.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Primer TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-name="RBATV" tvg-logo="https://i.imgur.com/ZWFxlU1.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="98",RBATV
@@ -222,8 +218,6 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="98",Sony Movies
 http://45.177.114.115/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SOUTV.br" tvg-name="SOU TV" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="94",SOU TV
-https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="STZTV.br" tvg-name="STZ TV" tvg-logo="https://i.imgur.com/SeF2I7q.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",STZ TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br" tvg-name="TCM 10 HD" tvg-logo="https://i.imgur.com/aMuMVvB.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",TCM 10 HD

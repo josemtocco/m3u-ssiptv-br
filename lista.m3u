@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
 # Gerado automaticamente a partir de DearBulut/iptv
-# Canais ativos: 170
+# Canais ativos: 168
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-country="BR" tvg-language="por" group-title="Shop" nexus-score="3",1001 Noites
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Adesso TV
@@ -9,6 +9,8 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 http://170.83.49.66:8083/AGROCANALHD/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" tvg-logo="https://i.imgur.com/sFcOZeo.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",AgroMais
 http://45.177.114.115/agromais/index.m3u8
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-name="Amazon Sat" tvg-logo="https://i.imgur.com/7rjCS5i.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="99",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ArarunaTV.br" tvg-name="Araruna TV" tvg-logo="https://i.imgur.com/jl39ula.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Araruna TV
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AratuOn.br" tvg-name="Aratu On" tvg-logo="https://i.imgur.com/Ht4jCab.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",Aratu On
@@ -29,8 +31,6 @@ http://170.83.49.66:8083/BANDSPORTSHD/index.m3u8
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="BMCNews.br" tvg-name="BM&C News" tvg-logo="https://i.imgur.com/pOUY2Uz.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",BM&C News
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
-#EXTINF:-1 tvg-id="BoasNovas.br" tvg-name="Boas Novas" tvg-logo="https://i.imgur.com/ZqhizdP.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="42",Boas Novas
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-name="Box Kids TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" tvg-country="BR" tvg-language="por" group-title="Kids" nexus-score="100",Box Kids TV
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br" tvg-name="Canal 25 Jundiai" tvg-logo="https://i.imgur.com/7igGMwH.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",Canal 25 Jundiai
@@ -160,6 +160,8 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-id="PlenitudeTV.br" tvg-name="Plenitude TV" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="93",Plenitude TV
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+#EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",+MaisUm
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br" tvg-name="Primer TV" tvg-logo="https://i.imgur.com/PMptSP3.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Primer TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-name="RBATV" tvg-logo="https://i.imgur.com/ZWFxlU1.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",RBATV
@@ -262,6 +264,8 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br" tvg-name="TV Comunitaria" tvg-logo="https://i.imgur.com/uxefHY3.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Comunitaria
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="TVCRio.br" tvg-name="TVC-Rio" tvg-logo="https://i.imgur.com/WDiikWv.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="70",TVC-Rio
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",TV Cultura
 http://45.177.114.115/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVCuruca.br" tvg-name="TV Curuca" tvg-logo="https://i.imgur.com/JdCKNZ4.png" tvg-country="BR" tvg-language="por" group-title="Entertainment" nexus-score="100",TV Curuca
@@ -294,16 +298,12 @@ http://45.162.64.114/TV_JUSTICA/index.m3u8
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVLifeAmerica.br" tvg-name="TV Life America" tvg-logo="https://i.imgur.com/HZI0ilU.png" tvg-country="BR" tvg-language="por" group-title="Culture" nexus-score="100",TV Life America
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-id="TVLitoralRN.br" tvg-name="TV Litoral RN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="95",TV Litoral RN
-https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaisMarica.br" tvg-name="TV Mais Marica" tvg-logo="https://i.imgur.com/lgCRX7q.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Mais Marica
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMarajoara.br" tvg-name="TV Marajoara" tvg-logo="https://i.imgur.com/9d9vBN7.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMetropole.br" tvg-name="TV Metropole" tvg-logo="https://i.imgur.com/bJyjLpg.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="98",TV Metropole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNatal.br" tvg-name="TV Natal" tvg-logo="https://i.imgur.com/wqQmQml.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Natal
-http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="TVNBN.br" tvg-name="TVNBN" tvg-logo="https://i.imgur.com/zoHBxn1.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TVNBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="https://i.imgur.com/iuoXchN.png" tvg-country="BR" tvg-language="por;eng" group-title="Religious" nexus-score="100",TV Pai Eterno
@@ -330,10 +330,6 @@ http://170.83.16.50/TV_SENADO/index.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVShowFortaleza.br" tvg-name="TV Show Fortaleza" tvg-logo="https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Show Fortaleza
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-name="TV Sim Cachoeiro" tvg-logo="https://i.imgur.com/t5oUK3C.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="99",TV Sim Cachoeiro
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" tvg-logo="https://i.imgur.com/PExKWNv.png" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="100",TV Terceiro Anjo
-https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br" tvg-name="TV UFOP" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" tvg-country="BR" tvg-language="por" group-title="Public" nexus-score="100",TV UFOP
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.br" tvg-name="TV Universal" tvg-logo="https://i.imgur.com/TIsk5zN.png" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="100",TV Universal

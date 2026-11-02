@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
 # Gerado automaticamente a partir de DearBulut/iptv
-# Canais ativos: 180
+# Canais ativos: 174
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-country="BR" tvg-language="por" group-title="Shop" nexus-score="100",1001 Noites
 https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Adesso TV
@@ -107,8 +107,6 @@ http://45.162.64.114/FISH_TV/index.m3u8
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png" tvg-country="BR" tvg-language="por" group-title="Education" nexus-score="100",Futura
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
-#EXTINF:-1 tvg-id="Geekdot.br" tvg-name="Geekdot" tvg-logo="https://i.imgur.com/jML1u4O.png" tvg-country="BR" tvg-language="por" group-title="Animation" nexus-score="0",Geekdot
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GhostTV.br" tvg-name="Ghost TV" tvg-logo="https://i.imgur.com/ZVO8GVI.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="0",Ghost TV
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GloboNews" tvg-logo="https://i.imgur.com/3yZyaCm.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",GloboNews
@@ -161,10 +159,6 @@ https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br" tvg-name="Plena TV" tvg-logo="https://i.imgur.com/lH4RT7b.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="99",Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="PlenitudeTV.br" tvg-name="Plenitude TV" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="100",Plenitude TV
-https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
-#EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-name="+MaisUm" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="90",+MaisUm
-https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br" tvg-name="Primer TV" tvg-logo="https://i.imgur.com/PMptSP3.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Primer TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-name="RBATV" tvg-logo="https://i.imgur.com/ZWFxlU1.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",RBATV
@@ -195,8 +189,6 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 http://186.219.52.187/rede_tv/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br" tvg-name="Rede TV! Mais" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV! Parana" tvg-logo="https://i.imgur.com/D8R0Af4.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",RedeTV! Parana
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="https://i.imgur.com/mP1qfp2.png" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="100",Rede Vida
 http://46.151.196.223:14244
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-name="Retro Cartoon" tvg-logo="https://i.imgur.com/hIlEfhl.png" tvg-country="BR" tvg-language="por" group-title="Classic" nexus-score="100",Retro Cartoon
@@ -254,8 +246,6 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",TV Brasil
 http://45.162.64.114/TV_BRASIL/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-name="TV Brasil Oeste" tvg-logo="https://i.imgur.com/noqGfuy.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-name="TV BRICS Portuguese" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-name="TV Brusque" tvg-logo="https://i.imgur.com/J2EAZPS.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",TV Brusque
@@ -333,8 +323,6 @@ https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-id="TVPassoFundo.br" tvg-name="TV Passo Fundo" tvg-logo="https://i.imgur.com/QFE6TiV.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Passo Fundo
 https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPetropolis.br" tvg-name="TV Petropolis" tvg-logo="https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Petropolis
-https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusPet.br" tvg-name="TV+Pet" tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png" tvg-country="BR" tvg-language="por" group-title="Entertainment" nexus-score="100",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="TV Ra Tim Bum" tvg-logo="https://i.imgur.com/JIQwz0w.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",TV Ra Tim Bum
@@ -347,10 +335,10 @@ http://170.83.16.50/TV_SENADO/index.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVShowFortaleza.br" tvg-name="TV Show Fortaleza" tvg-logo="https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Show Fortaleza
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-name="TV Sim Cachoeiro" tvg-logo="https://i.imgur.com/t5oUK3C.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="98",TV Sim Cachoeiro
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimSaoMateus.br" tvg-name="TV Sim Sao Mateus" tvg-logo="https://i.imgur.com/t5oUK3C.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="94",TV Sim Sao Mateus
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br" tvg-name="TV Sul Bahia" tvg-logo="https://i.imgur.com/qM6nMWm.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="25",TV Sul Bahia
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" tvg-logo="https://i.imgur.com/PExKWNv.png" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="99",TV Terceiro Anjo
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br" tvg-name="TV UFOP" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" tvg-country="BR" tvg-language="por" group-title="Public" nexus-score="100",TV UFOP

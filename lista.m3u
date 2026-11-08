@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
 # Gerado automaticamente a partir de DearBulut/iptv
-# Canais ativos: 178
-#EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-country="BR" tvg-language="por" group-title="Shop" nexus-score="85",1001 Noites
-https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
+# Canais ativos: 183
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="92",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="https://i.imgur.com/5XyopHf.png" tvg-country="BR" tvg-language="por" group-title="Education" nexus-score="100",AgroCanal
@@ -231,6 +229,18 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action" tvg-logo="https://i.imgur.com/BHYWG0h.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="100",Telecine Action
 http://46.151.196.223:14326
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult" tvg-logo="https://i.imgur.com/6GuHXnr.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="0",Telecine Cult
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.185.15.154:9080/stream/64/index.m3u8
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun" tvg-logo="https://i.imgur.com/MO2Ynki.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="0",Telecine Fun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.185.15.154:9080/stream/63/index.m3u8
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium" tvg-logo="https://i.imgur.com/uVFgIr8.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="0",Telecine Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.185.15.154:9080/stream/28/index.m3u8
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch" tvg-logo="https://i.imgur.com/Nky0hRo.png" tvg-country="BR" tvg-language="por" group-title="Movies" nexus-score="0",Telecine Touch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.185.15.154:9080/stream/29/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="https://i.imgur.com/wnYsE3O.png" tvg-country="BR" tvg-language="por" group-title="Outdoor" nexus-score="100",Terra Viva
 http://45.162.64.114/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-id="TikTokRadioBrasil.br" tvg-name="TikTok Radio Brasil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg" tvg-country="BR" tvg-language="por" group-title="Music" nexus-score="100",TikTok Radio Brasil
@@ -283,6 +293,10 @@ https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDifusao.br" tvg-name="TV Difusao" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Difusao
 https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEBahia.br" tvg-name="TVE Bahia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="99",TVE Bahia
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS.br" tvg-name="TVE RS" tvg-logo="https://i.imgur.com/MQ6lJpS.png" tvg-country="BR" tvg-language="por" group-title="Culture" nexus-score="98",TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-logo="https://i.imgur.com/IrYR7Kp.png" tvg-country="BR" tvg-language="por" group-title="Religious" nexus-score="100",TV Evangelizar
 http://45.162.64.114/EVANGELIZAR/index.m3u8
 #EXTINF:-1 tvg-id="TVFronteira.br" tvg-name="TV Fronteira" tvg-logo="https://i.imgur.com/NtcoW6G.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",TV Fronteira

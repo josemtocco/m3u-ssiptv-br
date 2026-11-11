@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/guide.xml.gz"
 # Gerado automaticamente a partir de DearBulut/iptv
-# Canais ativos: 183
+# Canais ativos: 182
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-country="BR" tvg-language="por" group-title="Shop" nexus-score="52",1001 Noites
 https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="99",Adesso TV
@@ -373,8 +373,6 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="UMATV.br" tvg-name="UMA TV" tvg-logo="https://i.imgur.com/m0RVb79.png" tvg-country="BR" tvg-language="por" group-title="Entertainment" nexus-score="100",UMA TV
 https://umatv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="UnisulTV.br" tvg-name="Unisul TV" tvg-logo="https://i.imgur.com/N0TvAFz.png" tvg-country="BR" tvg-language="por" group-title="Education" nexus-score="100",Unisul TV
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-name="VEJA+ TV" tvg-logo="https://i.imgur.com/n0pxHo4.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="100",VEJA+ TV
 https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" tvg-logo="https://i.imgur.com/me622pa.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",WooHoo

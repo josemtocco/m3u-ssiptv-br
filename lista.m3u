@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://dearbulut.github.io/iptv/epg/br.xml.gz"
 # Gerado automaticamente a partir de DearBulut/iptv
-# Canais ativos: 178
+# Canais ativos: 177
 #EXTINF:-1 tvg-id="PlusMaisUm.br" tvg-chno="637" tvg-name="+MaisUm" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",+MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-chno="639" tvg-name="Adesso TV" tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Adesso TV
@@ -51,8 +51,6 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-chno="674" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/w9R9IIX.png" tvg-country="BR" tvg-language="por" group-title="Outdoor" nexus-score="100",Canal Rural
 http://170.83.49.66:8083/CANALRURALHD/index.m3u8
-#EXTINF:-1 tvg-id="CanalSete.br" tvg-chno="676" tvg-name="Canal Sete" tvg-logo="https://i.imgur.com/0cq0BPp.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Canal Sete
-http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUOL.br" tvg-chno="678" tvg-name="Canal UOL" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="99",Canal UOL
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="CatveFM.br" tvg-chno="679" tvg-name="Catve FM" tvg-logo="https://i.imgur.com/w89yw36.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Catve FM
@@ -171,6 +169,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br" tvg-chno="754" tvg-name="RecordTV Interior SP" tvg-logo="https://i.imgur.com/VcHy0fu.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-chno="758" tvg-name="Rede Brasil" tvg-logo="https://i.imgur.com/TXJKwzZ.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-chno="759" tvg-name="Rede CNT Rio de Janeiro" tvg-logo="https://i.imgur.com/jcasAmw.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",Rede CNT Rio de Janeiro
 http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-chno="761" tvg-name="Rede Familia" tvg-logo="https://i.imgur.com/7KVFCrQ.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="99",Rede Familia
@@ -260,8 +260,6 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-chno="820" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" tvg-country="BR" tvg-language="por" group-title="Undefined" nexus-score="100",TV Brasil
 http://170.83.49.66:8083/TVBRASILHD/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-chno="821" tvg-name="TV Brasil Oeste" tvg-logo="https://i.imgur.com/noqGfuy.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV Brasil Oeste
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-chno="822" tvg-name="TV BRICS Portuguese" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-country="BR" tvg-language="por" group-title="General" nexus-score="100",TV BRICS Portuguese
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-chno="823" tvg-name="TV Brusque" tvg-logo="https://i.imgur.com/J2EAZPS.png" tvg-country="BR" tvg-language="por" group-title="News" nexus-score="85",TV Brusque
